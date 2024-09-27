@@ -44,5 +44,14 @@ Acknowledgements:</br>
 *Google Fonts for fonts</br>
 
 
-<b> Here Are Some Screenshots</b>
- <img src="ss1.png" alt="Amazon Sceenshot">
+<b> Here Are Some Screenshots</b></br>
+ <p>Here is a picture of the home page of Amazon</p></br>
+ <img src="ss2.png" alt="Amazon Screenshot"></br>
+ <p>Here is a Picture, where I added the hover selector on the search bar and it had an orange color border occur </p></br>
+ <img src="ss1.png" alt="Amazon Screenshot"></br>
+ <p>Here is a Picture, where I added the hover selector around the icons on the nav bar, and a transparent border occurred </p></br>
+ <img src="ss3.png" alt="Amazon Screenshot"></br>
+ <p>Here is a Picture, where I showcase the different categories of boxes based on different varietes of products on it </p></br>
+ <img src="ss4.png" alt="Amazon Screenshot"></br>
+ <p>Here is a Picture, where I placed the footer tag to display the closing information of the website and added the hover selector on each one of the options on footer with transparent border </p></br>
+ <img src="ss5.png" alt="Amazon Screenshot">
