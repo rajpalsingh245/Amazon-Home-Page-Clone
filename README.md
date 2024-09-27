@@ -27,7 +27,7 @@ Features:</br>
 *Setup</br>
 
 Usage:</br>
-*Feel free to use this project as a reference for your own HTML and CSS projects. You can also modify the code to add more features or improve the design.</br>
+*Feel free to use this project as a reference for your own HTML and CSS projects. You can modify the code to add more features or improve the design.</br>
 
 Contributing:</br>
 *Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.</br>
@@ -51,7 +51,7 @@ Acknowledgements:</br>
  <img src="ss1.png" alt="Amazon Screenshot"></br>
  <p>Here is a Picture, where I added the hover selector around the icons on the nav bar, and a transparent border occurred </p></br>
  <img src="ss3.png" alt="Amazon Screenshot"></br>
- <p>Here is a Picture, where I showcase the different categories of boxes based on different varietes of products on it </p></br>
+ <p>Here is a Picture, where I showcase the different categories of boxes based on different varieties of products on it </p></br>
  <img src="ss4.png" alt="Amazon Screenshot"></br>
- <p>Here is a Picture, where I placed the footer tag to display the closing information of the website and added the hover selector on each one of the options on footer with transparent border </p></br>
+ <p>Here is a Picture, where I placed the footer tag to display the closing information of the website and added the hover selector on each one of the options on the footer with a transparent border </p></br>
  <img src="ss5.png" alt="Amazon Screenshot">
