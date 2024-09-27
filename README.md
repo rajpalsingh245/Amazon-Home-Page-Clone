@@ -1,6 +1,6 @@
 <b>Amazon Homepage Clone</b></br>
 
-This project is a clone of the Amazon homepage, created using only HTML and CSS. The goal of this project is to practice front-end web development skills, focusing on layout design, styling, and responsiveness.</br>
+This project is a clone of the Amazon homepage, created using only HTML and CSS. This project aims to practice front-end web development skills, focusing on layout design, styling, and responsiveness.</br>
 
 Table of Contents:
 1. Project Overview</br>
