@@ -42,3 +42,7 @@ Acknowledgements:</br>
 *Amazon for the inspiration</br>
 *Font Awesome for icons</br>
 *Google Fonts for fonts</br>
+
+
+<b> Here Are Some Screenshots</b>
+ <img src="ss1.png" alt="Amazon Sceenshot">
